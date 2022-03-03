@@ -77,8 +77,7 @@ class player(object):
             if event.type == pygame.QUIT:
                 self.run = False                             
                         
-                 
-    
+                    
 #X, Y, Width, Height
 iden = player(40, 40, 40, 60)
 iden.run = True
